@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://taupe-starlight-bab688.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/C44T3mW2QnpWb51CZ3VU">
       Solution
     </a>
     <span> | </span>
@@ -72,4 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@your-username](https://{github.com/your-usermame})
 - Twitter [@your-twitter](https://{twitter.com/your-username})
+
 # my-team-page-master
